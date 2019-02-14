@@ -1,4 +1,4 @@
-package com.codercocoon.spring.ioc.autowiring.annotation;
+package javaspringexamples.spring.ioc.autowiring.annotation;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -8,7 +8,7 @@ import org.springframework.stereotype.Repository;
 
 /**
  * 
- * @author contact@codercocoon.com
+ * @author mounir.sahrani@gmail.com
  *
  */
 

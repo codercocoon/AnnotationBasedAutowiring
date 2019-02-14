@@ -1,11 +1,11 @@
-package com.codercocoon.spring.ioc.autowiring.annotation;
+package javaspringexamples.spring.ioc.autowiring.annotation;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class Main {
 
 	public static void main(String[] args) {
-		ClassPathXmlApplicationContext applicationContext = new ClassPathXmlApplicationContext("com/codercocoon/spring/ioc/autowiring/annotation/annotationConfiguration.xml");
+		ClassPathXmlApplicationContext applicationContext = new ClassPathXmlApplicationContext("javaspringexamples/spring/ioc/autowiring/annotation/annotationConfiguration.xml");
 		UserService userService = applicationContext.getBean(UserService.class);
 
 		System.out.println("User1 Informations: " + userService.getUserinformation(1));

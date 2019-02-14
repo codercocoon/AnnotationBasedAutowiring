@@ -1,8 +1,8 @@
-package com.codercocoon.spring.ioc.autowiring.annotation;
+package javaspringexamples.spring.ioc.autowiring.annotation;
 
 /**
  * 
- * @author contact@codercocoon.com
+ * @author mounir.sahrani@gmail.com
  *
  */
 public interface UserService {

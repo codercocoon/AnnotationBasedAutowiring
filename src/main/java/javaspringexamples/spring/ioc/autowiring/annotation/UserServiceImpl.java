@@ -1,4 +1,4 @@
-package com.codercocoon.spring.ioc.autowiring.annotation;
+package javaspringexamples.spring.ioc.autowiring.annotation;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
@@ -6,7 +6,7 @@ import org.springframework.stereotype.Service;
 
 /**
  * 
- * @author contact@codercocoon.com
+ * @author mounir.sahrani@gmail.com
  *
  */
 
